@@ -17,9 +17,7 @@
 
   <h3 align="center">Full Stack E-Commerce App</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@webmindsyt/videos" target="_blank"><b>Web Minds</b></a> YouTube. Join the WM family!
-    </div>
+   
 </div>
  
 ## 📋 Table of Contents
@@ -30,15 +28,6 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🖼️ [Assets](#assets)
 6. 🔗 [Links](#links)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@WebMindsYT/videos" target="_blank"><b>Web Minds</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/LlfmFYDSn5I" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
  
 ## <a name="introduction">🤖 Introduction</a>
 Welcome to the Full Stack E-Commerce App! This app is designed to offer a comprehensive E-Commerce solution with a focus on responsiveness and smooth animations. Built using React Native, Node.js, and MongoDB, it ensures high performance and scalability.
@@ -78,7 +67,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Abdullah0Dev/stylish.git
+git clone https://github.com/SaqibWaheed135/ECommerceApp.git
 cd stylish
 ```
 
@@ -122,7 +111,5 @@ Open the app on your simulator or real device to view the project.
 ## <a name="assets">🖼️ Assets</a>
 Find all assets [here](https://drive.google.com/drive/folders/1L1rxpyGG27UXTISyfPVtNuSHLIEc08FV?usp=sharing).
 
-## <a name="links">🔗 Links</a>
-- **🎨 Design** : [Figma App Desing✍](https://www.figma.com/design/r2oLfsjVOOHBRAmV9zxc8p/eCommerce-App-UI-Kit---Case-Study-Ecommerce-Mobile-App-UI-kit-(Community)?node-id=1-16990&t=aGKMq0fjCva2xjBh-1)
 
  
